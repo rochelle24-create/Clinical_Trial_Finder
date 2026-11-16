@@ -1,0 +1,15 @@
+.env
+.venv/
+venv/
+__pycache__/
+demo_snapshot.before_titles.json
+evaluation_sample.backup.json
+demo_snapshot (1).json
+low_scores.json
+test_snapshot.json
+summac_data/
+summac_run_log.txt
+summac_results.json
+summac_run_log*.txt
+cache/
+.streamlit/secrets.toml
