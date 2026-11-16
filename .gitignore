@@ -13,3 +13,4 @@ summac_results.json
 summac_run_log*.txt
 cache/
 .streamlit/secrets.toml
+PROJECT_NOTES.md
