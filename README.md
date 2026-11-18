@@ -2,6 +2,8 @@
 
 **Live app:** https://clinicaltrialfinder.streamlit.app/
 
+**Watch the Clinical Trial Finder walkthrough on Loom** https://www.loom.com/share/22e05e5979de4a90965de57b4af893cd
+
 Clinical Trial Finder searches ClinicalTrials.gov for trials that are currently recruiting or not yet recruiting, for a medical condition in a chosen country. Each trial has an AI-generated plain-English summary of its brief summary, written on request with Google Gemini.
 
 ## Medical disclaimer
